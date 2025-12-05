@@ -4,7 +4,7 @@ A simple Python tool that lets you send a predefined **/shout** message in Hypix
 This follows Hypixel’s allowed modification rules: **one physical key press per action**, no automation.
 
 ## Features
-- Press a key (default: **F6**) to send a custom `/shout` message
+- Press a key (default: **F12**) to send a custom `/shout` message
 - Fully manual, Hypixel-compliant
 - Simple and lightweight Python script
 
@@ -17,10 +17,10 @@ python3 -m pip install -r requirements.txt
 
 ## Usage
 ```python
-python3 shout.py
+python shout.py
 ```
 You will then be able to see:
-*Shout macro running... Press F6 to send the message.*
+*Shout macro running... Press F12 to send the message.*
 
 **This implies the system is working!**
 
