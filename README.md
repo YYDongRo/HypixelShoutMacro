@@ -21,10 +21,12 @@ python3 shout.py
 ```
 You will then be able to see:
 *Shout macro running... Press F6 to send the message.*
+
 **This implies the system is working!**
 
 ## Customization
-Simply edit *shout.py*:
+Simply edit *shout.py*
+
 **Change the message**:
 ```python
 SHOUT_MESSAGE = "/shout GG!"
@@ -33,6 +35,7 @@ SHOUT_MESSAGE = "/shout GG!"
 ```python
 TRIGGER_KEY = keyboard.Key.f7
 ```
+
 
 
 
