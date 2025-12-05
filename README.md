@@ -25,7 +25,7 @@ You will then be able to see:
 **This implies the system is working!**
 
 ## Customization
-Simply edit *shout.py*
+*Simply edit **shout.py***
 
 **Change the message**:
 ```python
@@ -35,6 +35,7 @@ SHOUT_MESSAGE = "/shout GG!"
 ```python
 TRIGGER_KEY = keyboard.Key.f7
 ```
+
 
 
 
